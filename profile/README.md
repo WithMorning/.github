@@ -22,10 +22,6 @@
   <img width="200px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/f0/11/d8f01133-369f-e6e5-1697-f1bf311980e1/Frame_5.png/460x0w.webp"/>
 </p>
 
-
-## 🛠️ 프로젝트 아키텍처
-![image](https://github.com/user-attachments/assets/ad9407e6-b72e-4789-a797-e7148885def6)
-
 ## IOS 담당자 🧑‍💻
 <div align=center>
 
