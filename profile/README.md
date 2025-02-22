@@ -10,15 +10,14 @@
 
 ## 프로젝트 소개 📝
 <p align="middle" >
-  <img width="210px;" src="https://github.com/user-attachments/assets/ac3badd2-6e6a-4316-80e3-f5dd97435b3e"/>
+  <img width="210px;" src="https://github.com/user-attachments/assets/0dedb52a-cd8c-4394-b0c9-4346af16663f"/>
    <img width="210px;" src="https://github.com/user-attachments/assets/033232e8-ec74-4134-9b32-f0f7e4b84f8d"/>
    <img width="210px;" src="https://github.com/user-attachments/assets/d4fc461f-b6db-41c5-b3de-6694f7868d3b"/>
 </p>
 
 ## 서비스 화면 🖥
 <p align="middle" >
-  <img width="210px;" src="https://github.com/user-attachments/assets/aeabd03a-aee0-429e-9313-30484d9df25f"/>
-   <img width="210px;" src="https://github.com/user-attachments/assets/a4655b1a-8a02-4984-aed6-4965d6192600"/>
+  <img width="630px;" src="https://github.com/user-attachments/assets/0ca0be36-ae1f-45c5-921d-b763fa9b651f"/>
 </p>
 
 
