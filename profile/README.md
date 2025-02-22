@@ -1,5 +1,6 @@
 <p align="middle" >
-  <img width="200px;" src="https://github.com/user-attachments/assets/873d07a7-f9b4-4967-9c9e-662d8dda5820"/>
+  <img width="200px;" src="https://github.com/user-attachments/assets/f85893fe-cf6c-4a22-9844-0408b3876e3b"/>
+
 </p>
 <h1 align="middle">친구와 함께 하는 알람앱 윗모닝!</h1>
 <p align="middle">10분만.. 10분만.. 하다가 2시간이 지나 일어난 적이 있나요?</p>
@@ -15,10 +16,10 @@
 
 ## 서비스 화면 🖥
 <p align="middle" >
-  <img width="230px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/c5/9b/40c59b55-c387-7ba8-7e01-e028d15c7971/Frame_2.png/460x0w.webp"/>
-  <img width="230px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/66/55/5c665528-f69f-941e-8778-68acb90d0c97/Frame_3.png/460x0w.webp"/>
-  <img width="230px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/08/7b/ab087be4-fa73-98a5-930b-7a26360e077a/Frame_4.png/460x0w.webp"/>
-  <img width="230px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/f0/11/d8f01133-369f-e6e5-1697-f1bf311980e1/Frame_5.png/460x0w.webp"/>
+  <img width="220px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/c5/9b/40c59b55-c387-7ba8-7e01-e028d15c7971/Frame_2.png/460x0w.webp"/>
+  <img width="220px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/66/55/5c665528-f69f-941e-8778-68acb90d0c97/Frame_3.png/460x0w.webp"/>
+  <img width="220px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/08/7b/ab087be4-fa73-98a5-930b-7a26360e077a/Frame_4.png/460x0w.webp"/>
+  <img width="220px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/f0/11/d8f01133-369f-e6e5-1697-f1bf311980e1/Frame_5.png/460x0w.webp"/>
 </p>
 
 
