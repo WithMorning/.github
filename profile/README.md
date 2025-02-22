@@ -10,14 +10,15 @@
 
 ## 프로젝트 소개 📝
 <p align="middle" >
-  <img width="210px;" src="https://github.com/user-attachments/assets/0dedb52a-cd8c-4394-b0c9-4346af16663f"/>
-   <img width="210px;" src="https://github.com/user-attachments/assets/033232e8-ec74-4134-9b32-f0f7e4b84f8d"/>
-   <img width="210px;" src="https://github.com/user-attachments/assets/d4fc461f-b6db-41c5-b3de-6694f7868d3b"/>
+  <img width="630px;" src="https://github.com/user-attachments/assets/0ca0be36-ae1f-45c5-921d-b763fa9b651f"/>
 </p>
 
 ## 서비스 화면 🖥
 <p align="middle" >
-  <img width="630px;" src="https://github.com/user-attachments/assets/0ca0be36-ae1f-45c5-921d-b763fa9b651f"/>
+  <img width="230px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/c5/9b/40c59b55-c387-7ba8-7e01-e028d15c7971/Frame_2.png/460x0w.webp"/>
+  <img width="230px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/66/55/5c665528-f69f-941e-8778-68acb90d0c97/Frame_3.png/460x0w.webp"/>
+  <img width="230px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/08/7b/ab087be4-fa73-98a5-930b-7a26360e077a/Frame_4.png/460x0w.webp"/>
+  <img width="230px;" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/f0/11/d8f01133-369f-e6e5-1697-f1bf311980e1/Frame_5.png/460x0w.webp"/>
 </p>
 
 
